@@ -1,0 +1,1 @@
+ C:\\Users\\acer\\perpustakaan_app\\.dart_tool\\flutter_build\\2f167da6174dde971917792be9afd7f2\\native_assets.yaml: 
